@@ -1,4 +1,4 @@
-# nlp-lec4-text-classification
-text classification code for my YT course on NLP
+# game-of-thrones-word2vec
+word2vec applied on game of thrones data
 
-Dataset - https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+Dataset Link: https://www.kaggle.com/khulasasndh/game-of-thrones-books
